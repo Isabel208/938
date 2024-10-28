@@ -1,0 +1,27 @@
+p{
+    color: brown;
+}
+
+p:only-child{
+    font-weight: bold;
+}
+
+p:only-of-type{
+   font-size: 2em; 
+}
+
+p:first-child{
+    color: red;
+}
+
+p:last-child{
+    background: aquamarine;
+}
+
+p:nth-child(3){
+    text-decoration: underline;
+}
+
+p:nth-of-type(4){
+    font-style: italic;
+}

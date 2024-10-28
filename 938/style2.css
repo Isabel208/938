@@ -1,0 +1,31 @@
+.flex-conteiner{
+    display: flex;
+    background-color: blue;
+    padding: 10px;
+}
+
+.flex-conteiner div{
+    background-color: antiquewhite;
+    padding: 25px;
+    margin: 5px;
+}
+
+.container2{
+    flex-direction: row-reverse;
+    background-color: aqua;
+}
+
+.container3{
+    flex-direction: column;
+    background-color: blueviolet;
+}
+
+.container4{
+    flex-direction: column-reverse;
+    background-color: black;
+}
+
+.col{
+    float: left;
+    width: 50px;
+}

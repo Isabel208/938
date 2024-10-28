@@ -1,0 +1,17 @@
+body{
+    color: lightblue;
+}
+
+.highlight{
+color: blue;
+}
+
+.darkBg{
+    background-color: purple;
+    padding: 20px;
+}
+
+.darkBg .highlight{
+    color:white;
+
+}

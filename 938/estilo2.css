@@ -1,0 +1,29 @@
+body{
+    color: brown;
+}
+
+.subrayado{
+    text-decoration: underline;
+    color: aquamarine;
+
+}
+
+.mayusculas {
+    text-transform: uppercase;
+}
+
+#nombre2 {
+    background-color: antiquewhite;
+    color: orchid;
+}
+
+p.subrayado {
+    color: coral;
+    margin-left: 100px;
+}
+
+.cabezal{
+    font-family: Impact;
+    font-shadow: 0cqh;
+}
+

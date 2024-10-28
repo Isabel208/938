@@ -1,0 +1,14 @@
+.subrayado{
+    text-decoration: underline;
+    color: plum;
+
+}
+
+.mayusculas {
+    text-transform: uppercase;
+}
+
+.darkBg{
+    background-color: aquamarine;
+    padding: 20px;
+}
