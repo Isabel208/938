@@ -1,0 +1,40 @@
+div{
+    position: relative; 
+   font-size: 25px;
+   margin: 15px 20px;
+   padding: 30px;
+   height: 150px;
+   border-radius: 20px;
+}
+a{
+   border: 2px;
+   border-style: dotted;
+}
+
+#capa2{
+
+position: absolute;
+left: 100px;
+top: 3%;
+background-color: greenyellow;
+height: 180px;
+width: 150px;
+
+}
+
+#capa3{
+position: fixed;
+right: 100px;
+top: 20px;
+background-color: greenyellow;
+height: 180px;
+width: 150px;
+}
+
+#capa1{
+   background-color: greenyellow;
+   z-index: 2;
+}
+
+
+
